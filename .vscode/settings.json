@@ -1,0 +1,16 @@
+{
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+
+    "autoDocstring.docstringFormat": "google",
+    "autoDocstring.generateDocstringOnEnter": true,
+
+    "scm.showActionButton": true,
+    "git.enableSmartCommit": true,
+
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    }
+}
