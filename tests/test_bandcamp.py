@@ -1,4 +1,4 @@
-from example.example import add
+from bandcamp.bandcamp import add
 
 
 def test_add():
